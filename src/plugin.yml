@@ -1,0 +1,6 @@
+name: PluginHammer
+version: 1.0
+author: wAycoo_
+main: fr.waycoo.hammer.Main
+commands:
+  hammer:
